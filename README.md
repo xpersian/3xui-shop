@@ -12,8 +12,6 @@
 <p align="center">
     <a href="#overview">Overview</a> •
     <a href="#installation-guide">Installation guide</a> •
-    <a href="#bugs-and-feature-requests">Bugs and Feature Requests</a> •
-    <a href="#support-the-project">Support the Project</a>
 </p>
 
 ![GitHub License](https://img.shields.io/github/license/snoups/3xui-shop)
@@ -26,6 +24,12 @@
 [![Static Badge](https://img.shields.io/badge/contact_me-white?style=social&logo=Telegram&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2Fsnoups)](https://t.me/snoups)
 ![GitHub Repo stars](https://img.shields.io/github/stars/snoups/3xui-shop)
 </div>
+
+>[!WARNING]
+>**This repository is no longer maintained.**  
+**The bot has moved to a new panel and now has its own new [repository](https://github.com/snoups/remnashop/) with an improved architecture, expanded functionality, and better stability — all built thanks to Remnawave.**
+>
+>**[Check out the new project](https://github.com/snoups/remnashop/) — it’s faster, cleaner, and much more capable!**
 
 <a id="overview"></a>
 
@@ -274,28 +278,3 @@ All configuration is available via `.env` [(see it above)](#environment-variable
 | Trial period | A trial subscription is available by 'TRY FOR FREE' button at start menu to any user who opens the bot and does not have an active subscription. |
 | Extended Trial period | This option is just like previous 'trial period', but allows to configure **extended trial period** for an invited user. |
 | Two-Level Referral Payment Rewards | When a referred user pays for a subscription, the referrer and the second-level referrer (the user who invited the referrer) receive fixed count of days at the moment fore each level. |
-
-## 🐛 Bugs and Feature Requests
-
-If you find a bug or have a feature request, please open an issue on the GitHub repository.
-You're also welcome to contribute to the project by opening a pull request.
-
-<a id="support-the-project"></a>
-
-## 💸 Support the Project
-
-A special thanks to the following individuals for their generous support:
-
-- **Boto**
-- [**@olshevskii-sergey**](https://github.com/olshevskii-sergey/)
-- **Aleksey**
-- [**@DmitryKryloff**](https://t.me/DmitryKryloff)
-
-You can support me via the following methods ([or RUB](https://t.me/shop_3xui/2/1580)):
-
-- **Bitcoin:** `bc1ql53lcaukdv3thxcheh3cmgucwlwkr929gar0cy`
-- **Ethereum:** `0xe604a10258d26c085ada79cdea9a84a5b0894b91`
-- **USDT (TRC20):** `TUqDQ4mdtVJZC76789kPYBMzaLFQBDdKhE`
-- **TON:** `UQDogBlLFgrxkVWvDJn6YniCwrJDro7hbk5AqDMoSzmBQ-KQ`
-
-Any support will help me dedicate more time to development and accelerate the project!
